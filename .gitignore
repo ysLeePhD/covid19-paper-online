@@ -1,0 +1,11 @@
+.Rhistory
+.RData
+renv
+renv.lock
+
+analysis
+document
+
+dist
+src/test_code
+src/data
