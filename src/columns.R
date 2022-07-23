@@ -1,3 +1,4 @@
+
 attitudinal_tag_list <- c(
   "A01_1",
   "A01_2",
